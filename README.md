@@ -1,6 +1,8 @@
 # scale-model-concrete-blocks
 <img src="https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7" alt="image" width="50%">
 
+
+# CAD files dir in this repo:
 | Name | Top Plate | Bottom plate |
 |----------|----------|----------|
 | Rect    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/6a82fbd8-8cf9-4e0b-9df8-506f516e3601)  | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/67063557-6ebc-4dd3-acad-fc8338670921)   |
