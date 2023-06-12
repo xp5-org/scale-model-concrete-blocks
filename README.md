@@ -1,5 +1,12 @@
 # scale-model-concrete-blocks
+<img src="https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7" alt="image" width="50%">
 
+| Name | Top Plate | Bottom plate |
+|----------|----------|----------|
+| Rect    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/6a82fbd8-8cf9-4e0b-9df8-506f516e3601)  | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/67063557-6ebc-4dd3-acad-fc8338670921)   |
+| Angle45   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/de02842b-02c1-4841-9253-cbf1d8d37d76)   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/790642f1-2fe2-4236-8614-fbea87b6dd11)  |
+| Circle    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/5aafdb63-fe64-487f-bb7c-1efd359ac068)   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/f7035226-92a5-4bfb-b2c4-652823944943)   |
+| W    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/e19c9b41-a427-467e-bde7-6af66ec3e139)   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/776c1394-3e58-4e37-852b-65afff4a522d)   |
 
 
 What is this?
@@ -90,7 +97,7 @@ Curing:
 
 
 # examples of the final product 
-![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7)
+
 
 
 ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/ca1b0baa-cf9e-4f3c-ad21-b456283a2eb8)
