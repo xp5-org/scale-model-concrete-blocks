@@ -41,10 +41,18 @@ These blocks are too small, are there larger ones?
 Hardware:
 - these forms relied on me using an M4 socket head cap-screw. They only need to be about 20mm long, just enough to go past the first plate's depth and into the 2nd form component. the M4 screws/bolts do not need to be full length. Its only purpose is to lightly hold together the forms so they don't come apart when using a vibrator, and avoids the use of additional clamps. 
 - you can skip using the hardware and 3d print some cylinders or pins to slide through and keep the forms aligned just as easily, and maybe use tape or rubber-bands to hold the forms together instead of M4 screws/bolts hardware
+  
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
+&nbsp;
+
+# Notes on mixing for small blocks
 These are notes on how i get a 'somewhat ok' result out of using conrete mixture with limited tools:
+* Note - lots of compromises needed for small scale at 80x40mm * 
 - Adjust the consistency of the concrete to be wetter than usual, but not excessively runny or dripping. Aim for a low or no slump. The mixture should be pourable, slightly thicker than pancake batter. Keep in mind that this compromises the strength, but for this particular scale and size, high strength is not necessary.
 
 - Use a composition consisting mostly of sand, with approximately 50% sand, 30% cement, and 20% pea gravel. If you only have sand, you can omit the pea gravel and use a 50/50 mix of sand and Portland cement. You can also experiment with less cement and more sand, such as an 80/20 ratio.
@@ -68,8 +76,16 @@ Curing:
 - the forms are very sensitive to disturbance when curing. Do not flex or bend the moulds, do not tap on them or bump them. Handle them like an egg
 - if it is not practical to place the project underwater for curing, they can be placed in a plastic bag to retain humidity
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
+# examples of the final product 
 ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7)
 
 
