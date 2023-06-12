@@ -1,6 +1,10 @@
 # scale-model-concrete-blocks
-<img src="https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7" alt="image" width="50%">
+<img src="https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/9b2f37f0-59a8-4bbe-a1ed-ee17a50d22f7" alt="image" width="30%">
+<img src="https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/084afe7f-0df8-4eb6-99df-826dc3008713" alt="image" width="30%">
 
+&nbsp;
+
+&nbsp;
 
 # CAD files dir in this repo:
 | Name | Top Plate | Bottom plate |
@@ -10,6 +14,9 @@
 | Circle    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/5aafdb63-fe64-487f-bb7c-1efd359ac068)   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/f7035226-92a5-4bfb-b2c4-652823944943)   |
 | W    | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/e19c9b41-a427-467e-bde7-6af66ec3e139)   | ![image](https://github.com/xp5-org/scale-model-concrete-blocks/assets/18539839/776c1394-3e58-4e37-852b-65afff4a522d)   |
 
+&nbsp;
+
+&nbsp;
 
 What is this?
 - CAD files for concrete molds, to create linkable cement blocks. these are 3d printable and include the .STL and .F3D file
