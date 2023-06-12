@@ -82,6 +82,7 @@ Tips:
 - it is better to UNDER fill the form, than over-fill. do not over-fill the form! the blocks will not fit together if they are too wide (over-filled).
 - Shrinkage will occur, if you fill right to the edge and it cures, the final block will have some shrinkage and this is OK, but if you want closer tolerances and less gaps in the finished product, use less water in the cement mixture or a "water reducing additive" (superplasticizer) 
 - Always vibrate, its better to shake it too much than not enough. I run the vibration at least 10 seconds after the last bubbles rise. This compromises the mixture, sand precipitates out from the aggregate BUT results in a better finish and less errors. 
+- get the cement mixture level after, or during the final moments of the vibration. Sometimes there is a film of water or fluid ontop of the mold that gives a false sense of full, sometimes i pour in extra mix and let it over-flow so i am absolutely sure that it will be at the right high when cured. 
 
 Curing:
 - Concrete (portland cement) needs water to cure. it does not cure when it is dry. 
