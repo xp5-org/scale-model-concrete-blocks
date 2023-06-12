@@ -52,7 +52,7 @@ Hardware:
 
 # Notes on mixing for small blocks
 These are notes on how i get a 'somewhat ok' result out of using conrete mixture with limited tools:
-* Note - lots of compromises needed for small scale at 80x40mm * 
+* Note , lots of compromises needed for small scale at 80x40mm * 
 - Adjust the consistency of the concrete to be wetter than usual, but not excessively runny or dripping. Aim for a low or no slump. The mixture should be pourable, slightly thicker than pancake batter. Keep in mind that this compromises the strength, but for this particular scale and size, high strength is not necessary.
 
 - Use a composition consisting mostly of sand, with approximately 50% sand, 30% cement, and 20% pea gravel. If you only have sand, you can omit the pea gravel and use a 50/50 mix of sand and Portland cement. You can also experiment with less cement and more sand, such as an 80/20 ratio.
@@ -64,6 +64,10 @@ These are notes on how i get a 'somewhat ok' result out of using conrete mixture
 - Use a shaker or a vibrator motor to vibrate the cement form. Due to the scale of the project, it may not be practical to use a small-scale vibrator. Instead, shake the entire form assembly to encourage the sand to settle out of the aggregate and into the recesses and feature points.
 
 after mixing , vibrating to remove air pockets is critical. Once done, remove the clamps and top wood pieces carefully, let it sit for about 4-6 hours (depends on temperature and humidity). Once the concrete has dried enough to not be disturbed by a light touch, gently submurge the form in water deep enough to cover the concrete. Once it is underneath water, it will cure within 48 hours we can remove the forms. sometimes as soon as 24 hours if it is in a warm environment
+
+To remove the forms:
+- gently wiggle the forms side to side, it is a technique to learn and is difficult to describe, like asking someone to explain how to crack an egg without breaking the shell.
+- if you aren't sure you can wait another additional day, ive found by the 3rd day of curing when submerged in water, the blocks are much more resillient. 
 
 Tips:
 - it is better to UNDER fill the form, than over-fill. do not over-fill the form! the blocks will not fit together if they are too wide (over-filled).
